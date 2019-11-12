@@ -1,0 +1,133 @@
+{
+	"products": [
+		{
+			"name": "chemises",
+			"price": 10,
+			"image": "img-1.jpg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"name": "shoes for women",
+			"price": 5,
+			"image": "img-2.jpg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"name": "women pack",
+			"price": 100,
+			"image": "img-3.jpg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"name": "women pack",
+			"price": 120,
+			"image": "img-4.jpg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"name": "white adidas",
+			"price": 35,
+			"image": "img-5.jpg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"name": "black nike",
+			"price": 45,
+			"image": "img-6.jpg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"name": "red nike",
+			"price": 40,
+			"image": "img-7.jpg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"name": "green nike",
+			"price": 65,
+			"image": "img-8.jpg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"name": "nike multicolor",
+			"price": 90,
+			"image": "img-9.jpg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"name": "nike multicolor women",
+			"price": 70,
+			"image": "img-10.jpg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"name": "women pack",
+			"price": 170,
+			"image": "img-11.jpg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"name": "nike multicolor women limited",
+			"price": 90,
+			"image": "img-12.jpg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"name": "jeans",
+			"price": 20,
+			"image": "img-13.jpg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"name": "women clothes",
+			"price": 30,
+			"image": "img-14.jpg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"name": "chemise for men",
+			"price": 35,
+			"image": "img-15.jpg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"name": "child pack",
+			"price": 60,
+			"image": "img-16.jpg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"name": "veste for women",
+			"price": 75,
+			"image": "img-17.jpg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"name": "veste",
+			"price": 60,
+			"image": "img-18.jpg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"name": "veste for men",
+			"price": 90,
+			"image": "img-19.jpg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"name": "chemise",
+			"price": 2,
+			"image": "img-20.jpg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"name": "white fila",
+			"price": 45,
+			"image": "img-21.jpg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"name": "chinese style for women",
+			"price": 40,
+			"image": "img-22.jpg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"name": "women pack",
+			"price": 150,
+			"image": "img-23.jpg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"name": "makeup pack",
+			"price": 200,
+			"image": "img-24.jpg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}
+	],
+	"about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?",
+	"contact": {
+		"phone": "+221770000000",
+		"website": "simplevuejsshop.com",
+		"facebook": "facebook.com/simplevuejsshop",
+		"twitter": "twitter.com/simplevuejsshop",
+		"instagram": "instagram.com/simplevuejsshop"
+	}
+}
