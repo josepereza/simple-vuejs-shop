@@ -1,0 +1,161 @@
+{
+	"products": [
+		{
+			"id": 0,
+			"name": "chemises",
+			"price": 10,
+			"image": "img-1.jpeg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"id": 1,
+			"name": "shoes for women",
+			"price": 5,
+			"image": "img-2.jpeg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"id": 2,
+			"name": "women pack",
+			"price": 100,
+			"image": "img-3.jpeg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"id": 3,
+			"name": "women pack",
+			"price": 120,
+			"image": "img-4.jpeg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"id": 4,
+			"name": "white adidas",
+			"price": 35,
+			"image": "img-5.jpeg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"id": 5,
+			"name": "black nike",
+			"price": 45,
+			"image": "img-6.jpeg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"id": 6,
+			"name": "red nike",
+			"price": 40,
+			"image": "img-7.jpeg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"id": 7,
+			"name": "green nike",
+			"price": 65,
+			"image": "img-8.jpeg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"id": 8,
+			"name": "nike multicolor",
+			"price": 90,
+			"image": "img-9.jpeg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"id": 9,
+			"name": "nike multicolor women",
+			"price": 70,
+			"image": "img-10.jpeg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"id": 10,
+			"name": "women pack",
+			"price": 170,
+			"image": "img-11.jpeg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"id": 11,
+			"name": "nike multicolor women limited",
+			"price": 90,
+			"image": "img-12.jpeg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"id": 12,
+			"name": "jeans",
+			"price": 20,
+			"image": "img-13.jpeg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"id": 13,
+			"name": "women clothes",
+			"price": 30,
+			"image": "img-14.jpeg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"id": 14,
+			"name": "chemise for men",
+			"price": 35,
+			"image": "img-15.jpeg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"id": 15,
+			"name": "child pack",
+			"price": 60,
+			"image": "img-16.jpeg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"id": 16,
+			"name": "veste for women",
+			"price": 75,
+			"image": "img-17.jpeg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"id": 17,
+			"name": "veste",
+			"price": 60,
+			"image": "img-18.jpeg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"id": 18,
+			"name": "veste for men",
+			"price": 90,
+			"image": "img-19.jpeg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"id": 19,
+			"name": "chemise",
+			"price": 2,
+			"image": "img-20.jpeg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"id": 20,
+			"name": "white fila",
+			"price": 45,
+			"image": "img-21.jpeg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"id": 21,
+			"name": "chinese style for women",
+			"price": 40,
+			"image": "img-22.jpeg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"id": 22,
+			"name": "women pack",
+			"price": 150,
+			"image": "img-23.jpeg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}, {
+			"id": 23,
+			"name": "makeup pack",
+			"price": 200,
+			"image": "img-24.jpeg",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+		}
+	],
+	"about": {
+		"title": "about",
+		"content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tenetur accusamus beatae sequi nulla sunt enim ipsa! Nam vel, architecto blanditiis tenetur, unde placeat, explicabo fugit inventore ipsa expedita veritatis?"
+	},
+	"contact": {
+		"title": "contact",
+		"phone": "+221770000000",
+		"website": "simplevuejsshop.com",
+		"facebook": "facebook.com/simplevuejsshop",
+		"twitter": "twitter.com/simplevuejsshop",
+		"instagram": "instagram.com/simplevuejsshop"
+	}
+}
