@@ -30,6 +30,9 @@ export default {
   transform: rotate(-1deg);
   margin-top: 60px;
   box-shadow: #4B4545 0px 0px 6px 0px;
+  position: relative;
+  width: 110%;
+  left: -5%;
 }
 
 .header-title,
