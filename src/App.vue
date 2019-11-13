@@ -20,6 +20,26 @@ export default {
 </script>
 
 <style>
+@font-face {
+  font-family: snell;
+  src: url('./assets/snell.ttf');
+}
+
+@font-face {
+  font-family: 'Montserrat Light';
+  src: url('./assets/Montserrat-Light.ttf');
+}
+
+@font-face {
+  font-family: Montserrat;
+  src: url('./assets/Montserrat-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Montserrat Bold';
+  src: url('./assets/Montserrat-Bold.ttf');
+}
+
 #app {
   font-family: Montserrat, 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
