@@ -2,21 +2,17 @@
   <div class="SimpleVuejsShopCatalogItem">
     <div class="row">
       <img :src="require('../assets/'+image)" width="100%" alt="img-1.jpg">
-      <div class="name-and-price">
-        <span class="float-left name">{{ name }}</span>
-        <span class="float-right price">{{ price }}$</span>
+      <div class="name-and-price col-12">
+        <div class="row">
+          <span class="float-left col-8 name text-capitalize">{{ name }}</span>
+          <span class="float-right col-4 price">{{ price }}$</span>
+        </div>
       </div>
     </div>
   </div>
 </template>
 
 <script>
-import Vue from 'vue'
-import axios from 'axios'
-import VueAxios from 'vue-axios'
-
-Vue.use(VueAxios, axios);
-
 export default {
   name: 'SimpleVuejsShopCatalogItem',
   props: ['name', 'price', 'image']
@@ -30,6 +26,7 @@ export default {
   background-color: #fff;
   border-radius: 9px;
   overflow: hidden;
+  height: 190px;
   transition: 0.4s;
 }
 
@@ -43,9 +40,28 @@ export default {
   padding: 10px;
   font-weight: 100;
   font-size: 20px;
+  position: absolute;
+  bottom: 0;
+  background-color: #fff;
+  transition: 0.4s;
 }
 
 .price {
   color: #3EBF17;
+  text-align: right;
+  transition: 0.4s;
+}
+
+.name {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-align: left;
+  transition: 0.4s;
+}
+
+.name-and-price:hover .name {
+  white-space: unset;
+  transition: 0.4s;
 }
 </style>
